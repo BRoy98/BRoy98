@@ -2,7 +2,7 @@
 # I'm Bishwajyoti Roy
 
 
-Welcome to my github! I'm a fullstack and mobile developer, living in 🇮🇳 <b>India</b>. 
+Welcome to my github! I'm a fullstack and mobile engineer, living in 🇮🇳 <b>India</b>. 
 
 ### 🛠  Here are my tech stack:
 
