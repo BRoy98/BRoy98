@@ -53,7 +53,7 @@ Welcome to my github! I'm a fullstack and mobile engineer, living in 🇮🇳 <b
 ---
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=broy98&include_all_commits=true&count_private=true&show_icons=true&line_height=24&card_width=300&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" width="336" />
+  <img src="https://github-readme-stats.vercel.app/api?username=broy98&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&card_width=390" width="336" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BRoy98&layout=compact&hide=csv,bash,xml,toml,git%20config&show_icons=true&line_height=20&langs_count=8&custom_title=This%20Week's%20Stats&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" width="462" /> 
 </p>
 
