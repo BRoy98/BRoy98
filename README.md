@@ -57,6 +57,10 @@ Welcome to my github! I'm a software engineer, living in 🇮🇳 <b>India</b>.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=BRoy98&layout=compact&hide=csv,bash,xml,toml,git%20config&show_icons=true&line_height=20&langs_count=8&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&custom_title=This%20Week%27s%20Stats"/>
 </div>
 
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=BRoy98&layout=compact&hide=csv,bash,xml,toml,git%20config&show_icons=true&line_height=20&langs_count=8&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&custom_title=This%20Week%27s%20Stats"/> -->
+
+<!-- https://github-readme-stats.vercel.app/api/wakatime?username=BRoy98&layout=compact&hide=csv,bash,xml,toml,git%20config&show_icons=true&line_height=20&langs_count=8&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117 -->
+
 <!-- ![Bishwajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=broy98&include_all_commits=true&count_private=true&show_icons=true&line_height=24&card_width=300&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BRoy98&layout=compact&hide=csv,bash,xml,toml,git%20config&show_icons=true&line_height=20&custom_title=This%20Week's%20Stats&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broy98&layout=compact&count_private=true&include_all_commits=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) -->
